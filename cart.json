@@ -1,0 +1,25 @@
+{
+  "cart": [
+    {
+      "id": 1,
+      "name": "Philips Dry Iron GC122/77",
+      "price": 205000,
+      "stock": "100",
+      "qty": 1
+    },
+    {
+      "id": 2,
+      "name": "Philips Setrika Uap Optimal Temp GC3920",
+      "price": 1312000,
+      "stock": "13",
+      "qty": 1
+    },
+    {
+      "id": 3,
+      "name": "Panasonic Dry Iron NI-317TVSR",
+      "price": 204000,
+      "stock": "123",
+      "qty": 1
+    }
+  ]
+}

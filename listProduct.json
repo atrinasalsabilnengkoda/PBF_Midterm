@@ -1,0 +1,74 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Philips Dry Iron GC122/77",
+      "price": 205000,
+      "image": "https://merkbagus.id/wp-content/uploads/2020/05/Philips-Dry-Iron-GC122-77.jpg",
+      "stock": "100"
+    },
+    {
+      "id": 2,
+      "name": "Philips Setrika Uap Optimal Temp GC3920",
+      "price": 1312000,
+      "image": "https://merkbagus.id/wp-content/uploads/2020/05/Philips-Setrika-Uap-Optimal-Temp-GC3920.jpg",
+      "stock": "13"
+    },
+    {
+      "id": 3,
+      "name": "Panasonic Dry Iron NI-317TVSR",
+      "price": 204000,
+      "image": "https://merkbagus.id/wp-content/uploads/2020/05/Panasonic-Dry-Iron-NI-317TVSR.jpg.webp",
+      "stock": "123"
+    },
+    {
+      "id": 4,
+      "name": "Maspion Setrika HA 110",
+      "price": 125000,
+      "image": "https://merkbagus.id/wp-content/uploads/2020/05/Maspion-Setrika-HA-110.jpg.webp",
+      "stock": "200"
+    },
+    {
+      "id": 5,
+      "name": "Miyako Electric Dry Iron EI-1000 M",
+      "price": 113000,
+      "image": "https://merkbagus.id/wp-content/uploads/2020/05/Miyako-Electric-Dry-Iron-EI-1000-M.jpg.webp",
+      "stock": "135"
+    },
+    {
+      "id": 6,
+      "name": "Electrolux Setrika Kering EasyLine EDI 1004",
+      "price": 200000,
+      "image": "https://merkbagus.id/wp-content/uploads/2020/05/Electrolux-Setrika-Kering-EasyLine-EDI-1004.jpg.webp",
+      "stock": "150"
+    },
+    {
+      "id": 7,
+      "name": "Sekai Setrika DI 886 / DI886",
+      "price": 117000,
+      "image": "https://merkbagus.id/wp-content/uploads/2020/05/Sekai-Setrika-DI-886-DI886.jpg.webp",
+      "stock": "120"
+    },
+    {
+      "id": 8,
+      "name": "Philips Setrika HD1173/40",
+      "price": 295000,
+      "image": "https://merkbagus.id/wp-content/uploads/2020/05/Philips-Setrika-HD1173-40.jpg.webp",
+      "stock": "75"
+    },
+    {
+      "id": 9,
+      "name": "Cosmos Dry Iron CIS438",
+      "price": 112000,
+      "image": "https://merkbagus.id/wp-content/uploads/2020/05/Cosmos-Dry-Iron-CIS-438-768x501.jpg.webp",
+      "stock": "150"
+    },
+    {
+      "id": 10,
+      "name": "Turbo Dry Iron EHL 3018",
+      "price": 152000,
+      "image": "https://merkbagus.id/wp-content/uploads/2020/05/Turbo-Dry-Iron-EHL-3018-768x504.jpg.webp",
+      "stock": "87"
+    }
+  ]
+}
